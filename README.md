@@ -1,5 +1,7 @@
 # laminas-log-writer-cloudwatch
 
+This log writer sends all log entries to AWS Cloudwatch.
+
 ## Installation
 
 Run the following to install this library:
