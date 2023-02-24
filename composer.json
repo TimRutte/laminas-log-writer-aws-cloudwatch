@@ -9,9 +9,9 @@
     ],
     "homepage": "https://www.timrutte.de",
     "support": {
-        "issues": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach/issues",
-        "source": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach",
-        "rss": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach/releases.atom"
+        "issues": "https://github.com/timrutte/laminas-log-writer-aws-cloudwatch/issues",
+        "source": "https://github.com/timrutte/laminas-log-writer-aws-cloudwatch",
+        "rss": "https://github.com/timrutte/laminas-log-writer-aws-cloudwatch/releases.atom"
     },
     "config": {
         "sort-packages": true
@@ -24,13 +24,5 @@
         "psr-4": {
             "TimRutte\\Laminas\\Log\\": "src/"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "TimRutteTest\\Laminas\\Log\\": "test/"
-        },
-        "files": [
-            "test/Writer/TestAsset/chmod.php"
-        ]
     }
 }
