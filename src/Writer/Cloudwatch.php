@@ -1,6 +1,6 @@
 <?php
 
-namespace Application\Log\Writer;
+namespace TimRutte\Laminas\Log\Writer;
 
 use Aws\CloudWatchLogs\CloudWatchLogsClient;
 use Laminas\Log\Writer\AbstractWriter;
