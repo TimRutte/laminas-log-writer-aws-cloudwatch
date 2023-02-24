@@ -13,11 +13,11 @@ $ composer require timrutte/laminas-log-writer-cloudwatch
 ```php
 $writer = new \TimRutte\Laminas\Log\Writer\Cloudwatch();
 $writer->configureAws(
-    'AWS_ACCESS_KEY', 
-    'AWS_SECRET_KEY', 
-    'eu-west-1', 
-    'groupName', 
-    'streamName'
+    '<AWS_ACCESS_KEY>', 
+    '<AWS_SECRET_KEY>', 
+    '<AWS_REGION>', 
+    '<CLOUDWATCH_GROUP_NAME>', 
+    '<CLOUDWATCH_STREAM_NAME>'
 );
 $formatter = new \Laminas\Log\Formatter\Json();
 $writer->setFormatter($formatter);
