@@ -1,6 +1,6 @@
 # laminas-log-writer-aws-cloudwatch
 
-This log writer sends all log entries to AWS Cloudwatch.
+Log writer to send all logs to AWS Cloudwatch.
 
 ## Installation
 
@@ -29,5 +29,5 @@ $logger->addWriter($writer);
 
 ## Support
 
-- [Issues](https://github.com/timrutte/laminas-log-writer-cloudwach/issues/)
+- [Issues](https://github.com/timrutte/laminas-log-writer-aws-cloudwach/issues/)
 

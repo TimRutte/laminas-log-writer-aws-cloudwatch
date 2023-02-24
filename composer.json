@@ -1,5 +1,5 @@
 {
-    "name": "timrutte/laminas-log-writer-cloudwatch",
+    "name": "timrutte/laminas-log-writer-aws-cloudwatch",
     "description": "Log writer to send all logs to AWS Cloudwatch",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -9,9 +9,9 @@
     ],
     "homepage": "https://www.timrutte.de",
     "support": {
-        "issues": "https://github.com/timrutte/laminas-log-writer-cloudwach/issues",
-        "source": "https://github.com/timrutte/laminas-log-writer-cloudwach",
-        "rss": "https://github.com/timrutte/laminas-log-writer-cloudwach/releases.atom"
+        "issues": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach/issues",
+        "source": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach",
+        "rss": "https://github.com/timrutte/laminas-log-writer-aws-cloudwach/releases.atom"
     },
     "config": {
         "sort-packages": true
