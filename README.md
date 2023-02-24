@@ -1,4 +1,4 @@
-# laminas-log-writer-cloudwatch
+# laminas-log-writer-aws-cloudwatch
 
 This log writer sends all log entries to AWS Cloudwatch.
 
